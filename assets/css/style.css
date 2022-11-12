@@ -1,3 +1,5 @@
+/* general */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,24 +8,30 @@
 
 body {
     box-sizing: border-box;
-    background: url(../images/snail.jpeg) no-repeat center center;
-    background:
-            url(../images/snail.jpeg) /* image */
-            center center / cover /* position / size */
-            no-repeat /* repeat */
-            fixed /* attachment */
-            padding-box /* origin */
-            content-box /* clip */
-            black; /* color */
+    background: url(../images/snail.jpeg) no-repeat center center / cover fixed black;
     color: azure;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
+
+/* header */
 
 header {
     display: flex;
+    line-height: 80px;
+}
+
+#logo {
+    font-size: 32px;
+    margin-left: 5%;
+    text-transform: uppercase;
 }
 
 nav {
     margin-left: auto;
+    margin-right: 5%;
 }
 
 ul {
@@ -46,4 +54,21 @@ a:hover {
 
 .active {
     text-decoration: underline;
+}
+
+/* section */
+
+section {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+footer {
+    display: flex;
+    margin-top: auto;
+}
+
+footer > div {
+    margin: 10px auto;
 }
