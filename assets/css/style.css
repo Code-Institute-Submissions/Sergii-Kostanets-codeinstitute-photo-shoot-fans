@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    box-sizing: border-box;
+    background: url(../images/snail.jpeg) no-repeat center center;
+    background:
+            url(../images/snail.jpeg) /* image */
+            center center / cover /* position / size */
+            no-repeat /* repeat */
+            fixed /* attachment */
+            padding-box /* origin */
+            content-box /* clip */
+            black; /* color */
+    color: azure;
+}
+
+header {
+    display: flex;
+}
+
+nav {
+    margin-left: auto;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin: 0   10px;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: azure;
+}
+
+a:hover {
+    color: blanchedalmond;
+}
+
+.active {
+    text-decoration: underline;
+}
