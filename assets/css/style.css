@@ -29,6 +29,8 @@ body {
 header {
     display: flex;
     line-height: 80px;
+    margin-bottom: 35px;
+    background-color: rgba(0, 0, 0, 0.445);
 }
 
 #logo-icon {
@@ -63,7 +65,7 @@ a {
 }
 
 a:hover {
-    color: blanchedalmond;
+    color: brown;
 }
 
 .active {
@@ -78,10 +80,93 @@ section {
     margin: auto;
 }
 
-.flexbox {
+section h1 {
+    font-size: xx-large;
+    text-align: center;
+    margin-bottom: 35px;
+    text-transform: uppercase;
+}
+
+.block {
+    margin-bottom: 50px;
+}
+
+.block h2 {
+    font-size: x-large;
+    /* margin-left: 10%; */
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+hr {
+    border-top: 2px solid azure;
+    margin-bottom: 30px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block-content {
     display: flex;
     flex-direction: row;
     margin: 0 auto;
+    width: 90%;
+    height: 300px;
+}
+
+.block-content-image {
+    width: 50%;
+}
+
+.block-content-image img {
+    width: 100%;
+    height: 100%;
+    border-radius: 3px;
+    object-fit: cover;
+}
+
+.block-content-text {
+    width: 50%;
+    padding: 2% 3% 2% 3%;
+    display: flex;
+    flex-direction: column;
+}
+
+.block-content-text h3 {
+    margin-bottom: 25px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.block-content-text-description {
+    margin-bottom: 25px;
+}
+
+.block-content-text p {
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+.block-content-text a {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+    width: 150px;
+    height: 50px;
+
+    line-height: 50px;
+    font-size: 18px;
+
+    border-radius: 5px;
+    background-color: brown;
+}
+
+.block-content-text a:hover {
+    background-color: azure;
+    color: brown;
 }
 
 /* footer */
@@ -89,8 +174,69 @@ section {
 footer {
     display: flex;
     margin-top: auto;
+    height: 225px;
+    background-color: rgba(0, 0, 0, 0.445);
 }
 
-footer > div {
-    margin: 10px auto;
+.footer-section {
+    display: flex;
+    width: 50%;
+}
+
+.footer-section > div {
+    width: 50%;
+    margin: 0 10px;
+}
+
+.footer-header {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.footer-contacts {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-contacts {
+    margin-bottom: 5px;
+}
+
+Address a {
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+}
+
+iframe {
+    width: 100%;
+    height: 158px;
+}
+
+.footer-social {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-social > a {
+    margin-bottom: 14px;
+    display: flex;
+    flex-direction: row;
+    line-height: 19px;
+}
+
+.footer-social > a > i {
+    display: block;
+    width: 30px;
+    margin-left: 0px;
+}
+
+.footer-licence {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-licence-text {
+    text-align: justify;
+    margin-bottom: 5px;
 }
