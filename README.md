@@ -1,3 +1,3 @@
 # Sergii Kostanets [Codeinstitute](https://codeinstitute.net) first project
 
-[Photo Shoot Fans](https://google.com) is a photoshoot booking site for clients and photographers who need a photo with a specific camera.
+[Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-photo-shoot-fans/) is a photoshoot booking site for clients and photographers who need a photo with a specific camera.
