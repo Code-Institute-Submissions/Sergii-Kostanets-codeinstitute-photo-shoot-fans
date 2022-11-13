@@ -1,19 +1,27 @@
+@import url("../fonts/stylesheet.css");
+
 /* general */
 
 * {
     margin: 0;
     padding: 0;
     border: none;
+    font-family: 'Mariupol', Arial, Helvetica, sans-serif;
+    font-weight: normal;
 }
 
 body {
     box-sizing: border-box;
-    background: url(../images/snail.jpeg) no-repeat center center / cover fixed black;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url(../images/snail.jpeg) no-repeat center center / cover fixed black;
     color: azure;
 
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+}
+
+.mariupol-symbols {
+    font-family: 'Mariupol Symbols', 'Mariupol', Arial, Helvetica, sans-serif;
 }
 
 /* header */
@@ -23,22 +31,28 @@ header {
     line-height: 80px;
 }
 
+#logo-icon {
+    font-size: 48px;
+    margin-left: 3%;}
+
 #logo {
     font-size: 32px;
-    margin-left: 5%;
+    margin-left: 2%;
     text-transform: uppercase;
+    letter-spacing: 3px;
+
 }
 
 nav {
     margin-left: auto;
-    margin-right: 5%;
+    margin-right: 3%;
 }
 
 ul {
     display: flex;
 }
 
-li {
+nav li {
     margin: 0   10px;
     list-style-type: none;
 }
@@ -63,6 +77,14 @@ section {
     flex-direction: column;
     margin: auto;
 }
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+}
+
+/* footer */
 
 footer {
     display: flex;
