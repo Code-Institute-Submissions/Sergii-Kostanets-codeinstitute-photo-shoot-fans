@@ -12,7 +12,7 @@
 
 body {
     box-sizing: border-box;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url(../images/snail.jpeg) no-repeat center center / cover fixed black;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url(../images/map.jpg) no-repeat center center / cover fixed black;
     color: azure;
 
     display: flex;
