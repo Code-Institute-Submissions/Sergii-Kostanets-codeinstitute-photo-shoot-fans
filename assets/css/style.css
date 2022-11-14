@@ -96,7 +96,7 @@ section h1 {
     margin-bottom: 50px;
 }
 
-.block h2 {
+h2 {
     font-size: x-large;
     /* margin-left: 10%; */
     margin-bottom: 30px;
@@ -277,7 +277,7 @@ iframe {
 
 @media screen and (max-width: 900px) {
 
-    h1, .block h2 {
+    h1, h2 {
         width: 90%;
         margin-left: auto;
         margin-right: auto;
@@ -354,7 +354,7 @@ iframe {
         font-size: 24px;
     }
 
-    .block h2 {
+    h2 {
         font-size: 20px;
     }
 
@@ -458,4 +458,60 @@ iframe {
         letter-spacing: normal;
         font-size: 22px;
     }
+}
+
+/* form */
+
+.form {
+    height: 520px;
+    /* width: 30%; */
+    margin: 0 auto;
+}
+
+.form-request {
+    background-color: rgba(61, 61, 61, 0.507);
+    max-width: 400px;
+    padding: 30px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 35px;
+    margin: 5px 0 20px;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    box-sizing: border-box;
+    font-size: 18px;
+    padding: 0 5px;
+}
+
+.text-input:hover {
+    border-color: #f16c6b;
+}
+/* dont work */
+.text-input:focus {
+    border-color: gray;
+}
+
+input[type=radio] {
+    margin-bottom: 10px;
+}
+
+.button {
+    margin-top: 10px;
+    margin: 10px auto 0;
+    border-radius: 2px;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: brown;
+    color: #fafafa;
+    display: block;
+}
+
+.button:hover {
+    background-color: #fafafa;
+    color: brown;
 }
