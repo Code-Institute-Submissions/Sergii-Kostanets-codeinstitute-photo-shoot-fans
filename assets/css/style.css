@@ -148,6 +148,20 @@ hr {
     margin-bottom: 25px;
 }
 
+.block-content-photos {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+
+.block-content-photos img {
+    width: 30%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 2px;
+    margin: 0 auto;
+}
+
 .block-content-text p {
     text-align: justify;
     margin-bottom: 10px;
