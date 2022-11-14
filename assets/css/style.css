@@ -330,6 +330,7 @@ iframe {
 }
 
 @media screen and (max-width: 650px) {
+
     #logo {
         font-size: 24px;
         letter-spacing: normal;
@@ -349,6 +350,7 @@ iframe {
 }
 
 @media screen and (max-width: 510px) {
+
     header {
         flex-direction: column;
         line-height: 40px;
@@ -379,12 +381,16 @@ iframe {
         margin-left: auto;
         margin-right: auto;
     }
+
+    footer {
+        height: 800px;
+    }
 }
 
 @media screen and (max-width: 420px) {
 
     footer {
-        height: 855px;
+        height: 865px;
     }
 
     .footer-section > div {
