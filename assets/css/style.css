@@ -289,7 +289,7 @@ iframe {
     }
 
     footer {
-        height: 750px;
+        height: 780px;
     }
 
     .footer-section {
@@ -346,6 +346,10 @@ iframe {
 
     .block-content-text h3 {
         font-size: 18px;
+    }
+
+    footer {
+        height: 780px;
     }
 }
 
