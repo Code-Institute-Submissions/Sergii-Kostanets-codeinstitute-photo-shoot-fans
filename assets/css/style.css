@@ -1,6 +1,6 @@
 @import url("../fonts/stylesheet.css");
 
-/* general */
+/* General */
 
 * {
     margin: 0;
@@ -12,9 +12,8 @@
 
 body {
     box-sizing: border-box;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url(../images/map.jpg) no-repeat center center / cover fixed black;
+    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/map.jpg) no-repeat center center / cover fixed black;
     color: azure;
-
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -24,13 +23,13 @@ body {
     font-family: 'Mariupol Symbols', 'Mariupol', Arial, Helvetica, sans-serif;
 }
 
-/* header */
+/* Header */
 
 header {
     display: flex;
     line-height: 80px;
     margin-bottom: 35px;
-    background-color: rgba(0, 0, 0, 0.445);
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 header > div {
@@ -77,7 +76,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* section */
+/* Main content section */
 
 section {
     display: flex;
@@ -98,7 +97,6 @@ section h1 {
 
 h2 {
     font-size: x-large;
-    /* margin-left: 10%; */
     margin-bottom: 30px;
     text-transform: uppercase;
     text-align: center;
@@ -188,14 +186,14 @@ hr {
     color: brown;
 }
 
-/* footer */
+/* Footer */
 
 footer {
     display: flex;
     flex-direction: column;
     margin-top: auto;
     height: 400px;
-    background-color: rgba(0, 0, 0, 0.445);
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 .footer-section {
@@ -273,7 +271,10 @@ iframe {
 .footer-licence-text {
     text-align: center;
     margin-bottom: 5px;
+    font-size: smaller;
 }
+
+/* Responsible design */
 
 @media screen and (max-width: 900px) {
 
@@ -303,7 +304,7 @@ iframe {
     }
 
     footer {
-        height: 780px;
+        height: 950px;
     }
 
     .footer-section {
@@ -338,8 +339,18 @@ iframe {
         margin: 0;
     }
 
+    #footer-map {
+        margin-bottom: 20px;
+        width: 550px;
+        height: 450px;
+    }
+
+    iframe {
+        height: 350px;
+    }
+
     .footer-licence {
-        margin: 30px auto;
+        margin: 0 auto;
     }
 }
 
@@ -364,6 +375,15 @@ iframe {
 
     footer {
         height: 780px;
+    }
+
+    #footer-map {
+        width: 350px;
+        height: 290px;
+    }
+
+    iframe {
+        height: 185px;
     }
 }
 
@@ -435,6 +455,10 @@ iframe {
     Address a p {
         text-align: center;
     }
+
+    #footer-map {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 310px) {
@@ -460,7 +484,7 @@ iframe {
     }
 }
 
-/* form */
+/* Form page */
 
 .form {
     height: 720px;
