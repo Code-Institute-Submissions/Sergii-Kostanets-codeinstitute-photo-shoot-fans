@@ -463,8 +463,7 @@ iframe {
 /* form */
 
 .form {
-    height: 520px;
-    /* width: 30%; */
+    height: 720px;
     margin: 0 auto;
 }
 
@@ -488,15 +487,28 @@ iframe {
 }
 
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: brown;
 }
-/* dont work */
+
 .text-input:focus {
-    border-color: gray;
+    outline: none;
+    border-color: orange;
+}
+
+textarea {
+    max-width: 100%;
+    min-width: 100%;
+    max-height: 200px;
+    min-height: 35px;
+    line-height: 18px;
 }
 
 input[type=radio] {
     margin-bottom: 10px;
+}
+
+input[type=radio] {
+    accent-color: brown;
 }
 
 .button {
