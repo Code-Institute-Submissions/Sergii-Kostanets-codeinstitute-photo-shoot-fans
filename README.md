@@ -67,7 +67,7 @@ Page footer responsiveness:
 
 * ### Home page
 
-  * ### Navigation Menu
+  * #### Navigation Menu
 
     * Sited at the top of all the pages in the site, it is fully responsive and contains links to all the pages of the site to enable ease of navigation in one convenient location.
     * The logo icon is clickable with a link back to the home page for enhanced UX.
@@ -77,7 +77,7 @@ Page footer responsiveness:
 
 [Back to top](<#contents>)
 
-  * ### Blocks with main content
+  * #### Blocks with main content
 
       * Located on the home page beneath the title section. The main content blocks are designed to be hidden when a service is suspended, or easily added when services are added. Each block ends with a button to encourage the visitor to go to the page for filling out a form or choosing a camera.
       * Each block is responsive and restructures when the display is scaled down. Keeping the general idea of encouraging the visitor to explore the site further.
@@ -86,7 +86,7 @@ Page footer responsiveness:
 
 [Back to top](<#contents>)
 
-  * ### Footer
+  * #### Footer
 
     * Contains contacts of the author of the site.
     * Contains social media links. To enhance the UX the links open in other tabs.
