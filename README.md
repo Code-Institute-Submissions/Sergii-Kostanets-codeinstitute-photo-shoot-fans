@@ -12,15 +12,15 @@ Welcome to [Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-p
     * [Responsivenes](<#responsivenes>)
     * [Site Structure](<#site-structure>)
 * [**Features**](<#features>)
-    * [**Home**](<#navigation-menu>)
+    * [**Home page**](<#home-page>)
          * [Navigation menu](<#navigation-menu>)
          * [Blocks with main content](<#blocks>)
          * [Footer](<#footer>)
-    * [**Camera**](<#camera>)
+    * [**Camera page**](<#camera-page>)
         * Hardware image
         * Examples of photos for this equipment
         * Motivation to action
-    * [**Request**](<#request>)
+    * [**Request page**](<#request-page>)
        * Request form
        * Submit button
     * [**Future Features**](<#future-features>)
@@ -64,6 +64,9 @@ Page footer responsiveness:
 [Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-photo-shoot-fans) contains many features that the user would be familiar with, such as a navigation bar, footer with contact links and contact form. The site is built in such a way as to encourage the user to submit a form with contact information.
 
 ## Existing Features
+
+* ### Home page
+
   * ### Navigation Menu
 
     * Sited at the top of all the pages in the site, it is fully responsive and contains links to all the pages of the site to enable ease of navigation in one convenient location.
@@ -83,7 +86,7 @@ Page footer responsiveness:
 
 [Back to top](<#contents>)
 
-* ### Footer
+  * ### Footer
 
     * Contains contacts of the author of the site.
     * Contains social media links. To enhance the UX the links open in other tabs.
@@ -96,7 +99,7 @@ Page footer responsiveness:
 
 [Back to top](<#contents>)
 
-* ### Camera
+* ### Camera page
 
     * The camera page give the user a choice of equipment for shooting.
     * Blocks with the choice of equipment contain the name and photo of the camera itself, as well as the name of the lens and examples of photos taken on this camera with this lens.
@@ -107,7 +110,7 @@ Page footer responsiveness:
 
 [Back to top](<#contents>)
 
-* ### Request
+* ### Request page
 
     * This section should complete the online journey for the user. It has request form for every type of client.
     * Form has 5 input fields: first name, last name, email, message and type of client.
@@ -137,7 +140,6 @@ Page footer responsiveness:
 
 [Back to top](<#contents>)
 
-________________________________________________________________________________________________
 # Testing
 
 Please refer to [**_here_**](TESTING.md) for more information on testing Photo Shoot Fans.
