@@ -76,6 +76,8 @@ Page footer responsiveness:
 
 ![Navigation bar image](assets/images/readme-images/navbar.png)
 
+[Back to top](<#contents>)
+
   * #### Footer
 
     * Contains contacts of the author of the site.
