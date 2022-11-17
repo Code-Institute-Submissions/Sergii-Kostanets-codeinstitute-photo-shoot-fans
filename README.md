@@ -12,18 +12,14 @@ Welcome to [Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-p
     * [Responsivenes](<#responsivenes>)
     * [Site Structure](<#site-structure>)
 * [**Features**](<#features>)
-    * [**All pages**](<#all-pages>)
-         * [Header](<#header>)
-         * [Footer](<#footer>)
-    * [**Home page**](<#home-page>)
-         * [Blocks](<#blocks>)
-    * [**Camera page**](<#camera-page>)
-        * Hardware image
-        * Examples of photos for this equipment
-        * Motivation to action
-    * [**Request page**](<#request-page>)
-       * Request form
-       * Submit button
+    * [**Existing Features**](<#existing-features>)
+        * [**All pages**](<#all-pages>)
+            * [Header](<#header>)
+            * [Footer](<#footer>)
+        * [**Home page**](<#home-page>)
+            * [Blocks](<#blocks>)
+        * [**Camera page**](<#camera-page>)
+        * [**Request page**](<#request-page>)
     * [**Future Features**](<#future-features>)
 * [**Technologies Used**](<#technologies-used>)
 * [**Testing**](<#testing>)
@@ -160,7 +156,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
 ![GitHub pages deployed image](assets/images/readme-images/deployment.png)
 
-  The live link to the Github repository can be found here - https://sergii-kostanets.github.io/codeinstitute-photo-shoot-fans/request.html
+  The live link to the Github repository can be found [here](https://sergii-kostanets.github.io/codeinstitute-photo-shoot-fans).
 
 ### **To fork the repository on GitHub**
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
@@ -188,7 +184,7 @@ The method from cloning a project from GitHub is below:
 * The font came from [Rent a Font](https://rentafont.com/fonts/mariupol?sample_text=Mariupol%2520font%2520test).
 * The map is embedded from [Google Maps](https://www.google.com/maps).
 * The icons came from [Flat Icon](https://www.flaticon.com/).
-    * [Author](https://www.flaticon.com/authors/freepik).
+    * Author: [Freepik](https://www.flaticon.com/authors/freepik).
 * The form base structure and performance check came from a [Love Running Walkthrough Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/4d85cd1a2c57485abbd8ccec8c00732c/?child=first).
 * As an example of a readme file was taken file of author [Ewan Colquhoun](https://github.com/EwanColquhoun/wawaswoods#readme)
 
@@ -201,6 +197,6 @@ The method from cloning a project from GitHub is below:
 # Acknowledgements
 The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support.
 
-Sergii Kostanets, November 2022.
+[Sergii Kostanets](https://sergiikostanets.netlify.app/), November 2022.
 
 [Back to top](<#contents>)
