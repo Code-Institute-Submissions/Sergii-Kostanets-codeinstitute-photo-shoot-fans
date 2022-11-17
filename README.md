@@ -1,12 +1,3 @@
-# Sergii Kostanets [Codeinstitute](https://codeinstitute.net) first project
-
-[Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-photo-shoot-fans/) is a photoshoot booking site for clients and photographers who need a photo with a specific camera.
-
-
-откуда взял шрифты
-https://fontsinuse.com/typefaces/203938/mariupol
-https://rentafont.com/fonts/mariupol?sample_text=Mariupol%2520font%2520test
-
 # **_Photo Shoot Fans_**
 
 Photo Shoot Fans is a resource for finding a photographer, model or rare camera to arrange a photo session. The target audience of the site is professional photographers who need a model who understands photography and is interested in rare cameras. As well as photographers and models experienced in photography, who want a photo on a specific camera or lens. Owners of rare cameras will be interested in this resource, as they have the opportunity to earn money by renting equipment.
@@ -149,7 +140,7 @@ Page footer responsiveness:
 ________________________________________________________________________________________________
 # Testing
 
-Please refer to [**_here_**](TESTING.md) for more information on testing Wawas Woods.
+Please refer to [**_here_**](TESTING.md) for more information on testing Photo Shoot Fans.
 
 [Back to top](<#contents>)
 
@@ -159,56 +150,52 @@ Please refer to [**_here_**](TESTING.md) for more information on testing Wawas W
 The site was deployed to GitHub pages. The steps to deploy a site are as follows:
   1. In the GitHub repository, navigate to the **Settings** tab.
   2. Once in Settings, navigate to the **Pages** tab on the left hand side.
-  3. Under **Source**, select the branch to **master**, then click **save**.
-  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  3. Under **Source**, select the branch to **main**, then click **save**.
+  4. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-![GitHub pages deployed image](assets/readme-images/deploy.png)
+![GitHub pages deployed image](assets/images/readme-images/deployment.png)
 
-  The live link to the Github repository can be found here - https://github.com/EwanColquhoun/wawaswoods
+  The live link to the Github repository can be found here - https://sergii-kostanets.github.io/codeinstitute-photo-shoot-fans/request.html
 
 ### **To fork the repository on GitHub**
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
-1. Log in to **GitHub** and locate the [repository](https://github.com/EwanColquhoun/wawaswoods).
+1. Log in to **GitHub** and locate the [repository](https://github.com/Sergii-Kostanets/codeinstitute-photo-shoot-fans).
 2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
-![GitHub forking process image](assets/readme-images/forking.png)
+![GitHub forking process image](assets/images/readme-images/forking.png)
 
 ### **To create a local clone of this project**
 The method from cloning a project from GitHub is below:
 
 1. Under the repository’s name, click on the **code** tab.
 2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
-![Cloning image](assets/readme-images/clone.png)
+![Cloning image](assets/images/readme-images/clone.png)
 3. In your IDE of choice, open **Git Bash**.
 4. Change the current working directory to the location where you want the cloned directory to be made.
 5. Type **git clone**, and then paste the URL copied from GitHub.
 6. Press **enter** and the local clone will be created.
-
-
 
 [Back to top](<#contents>)
 
 # Credits
 ### Content
 
-* The font came from [Google Fonts](https://fonts.google.com/).
+* Font selected on [Font in Use](https://fontsinuse.com/typefaces/203938/mariupol)
+* The font came from [Rent a Font](https://rentafont.com/fonts/mariupol?sample_text=Mariupol%2520font%2520test).
 * The map is embedded from [Google Maps](https://www.google.com/maps).
-* The colour palate was compiled by [Colormind](http://colormind.io/).
-* The icons came from [Font Awesome](https://fontawesome.com/).
-* The form validation idea came from a [YouTube tutorial](https://www.youtube.com/watch?v=fNcJuPIZ2WE).
-* The code for the Safari specific styling was inspired by an example on [Stack Overflow](https://stackoverflow.com/).
-* The inspiration for the Project page sliders came from this repository on [GitHub](https://gist.github.com/zhilinskiy/4603199).
-* [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
-
+* The icons came from [Flat Icon](https://www.flaticon.com/).
+    * [Author](https://www.flaticon.com/authors/freepik).
+* The form base structure and performance check came from a [Love Running Walkthrough Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/4d85cd1a2c57485abbd8ccec8c00732c/?child=first).
+* As an example of a readme file was taken file of author [Ewan Colquhoun](https://github.com/EwanColquhoun/wawaswoods#readme)
 
 ### Media
-* The photos all came from the developer, [Ewan Colquhoun](https://www.linkedin.com/in/ewan-colquhoun-2b3535213/).
-* The photos were compressed using [Compressor](https://compressor.io/).
+* The photos all came from the developer of this website, [Sergii Kostanets](https://www.linkedin.com/in/sergiikostanets/).
+* The photos were compressed using [I Love IMG](https://www.iloveimg.com/).
 
 [Back to top](<#contents>)
 
 # Acknowledgements
-The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. Wawas Woods is a fictional company but it exists in everything but the business title. Currently it is more of a hobby!
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support.
 
-Ewan Colquhoun 2021.
+Sergii Kostanets, November 2022.
 
 [Back to top](<#contents>)
