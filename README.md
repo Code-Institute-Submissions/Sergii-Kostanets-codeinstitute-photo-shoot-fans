@@ -197,6 +197,8 @@ The method from cloning a project from GitHub is below:
 # Acknowledgements
 The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support.
 
+This is a very personal project for me. In a past life, before the war in Ukraine, I was a photographer and collector of rare film cameras. Now, when everything is destroyed, all I have left are these photos and a dream to create a community of film photography lovers. And let this website be the basis for that.
+
 [Sergii Kostanets](https://sergiikostanets.netlify.app/), November 2022.
 
 [Back to top](<#contents>)
