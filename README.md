@@ -77,6 +77,8 @@ Page footer responsiveness:
 
 [Back to top](<#contents>)
 
+* ### Home page
+
   * #### Blocks with main content
 
       * Located on the home page beneath the title section. The main content blocks are designed to be hidden when a service is suspended, or easily added when services are added. Each block ends with a button to encourage the visitor to go to the page for filling out a form or choosing a camera.
@@ -85,6 +87,8 @@ Page footer responsiveness:
 ![Blocks image](assets/images/readme-images/blocks.png)
 
 [Back to top](<#contents>)
+
+* ### Home page
 
   * #### Footer
 
