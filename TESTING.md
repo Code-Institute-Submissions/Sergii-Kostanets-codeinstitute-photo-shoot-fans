@@ -104,7 +104,7 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
 
     * Planned solution:
 
-        In the gitpod editor console one problem flags up within the CSS. To enable the site to perform properly on all versions of Safari a 'media query with Prescribing specific settings for certain browsers.
+        Prescribing specific settings for certain browsers.
 
         With prefix:
 
