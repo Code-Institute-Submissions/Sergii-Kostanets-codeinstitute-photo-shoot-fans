@@ -14,7 +14,7 @@ Welcome to [Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-p
 * [**Features**](<#features>)
     * [**Home page**](<#home-page>)
          * [Navigation menu](<#navigation-menu>)
-         * [Blocks with main content](<#blocks>)
+         * [Blocks](<#blocks>)
          * [Footer](<#footer>)
     * [**Camera page**](<#camera-page>)
         * Hardware image
@@ -79,7 +79,7 @@ Page footer responsiveness:
 
 * ### Home page
 
-  * #### Blocks with main content
+  * #### Blocks
 
       * Located on the home page beneath the title section. The main content blocks are designed to be hidden when a service is suspended, or easily added when services are added. Each block ends with a button to encourage the visitor to go to the page for filling out a form or choosing a camera.
       * Each block is responsive and restructures when the display is scaled down. Keeping the general idea of encouraging the visitor to explore the site further.
