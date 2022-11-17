@@ -94,11 +94,11 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
 
         Header
 
-        ![Chrome 1](assets/images/readme-images/bug-body-chrome-1.png)
+        ![Chrome 1](assets/images/readme-images/bug-body-chrome-2.png)
 
         Footer
 
-        ![Chrome 2](assets/images/readme-images/bug-body-chrome-2.png)
+        ![Chrome 2](assets/images/readme-images/bug-body-chrome-1.png)
 
         Also alternative expected behavior: no scroll beyond the page.
 
