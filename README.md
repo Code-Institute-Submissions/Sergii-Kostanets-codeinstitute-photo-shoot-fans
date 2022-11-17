@@ -12,10 +12,11 @@ Welcome to [Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-p
     * [Responsivenes](<#responsivenes>)
     * [Site Structure](<#site-structure>)
 * [**Features**](<#features>)
-    * [**Home page**](<#home-page>)
-         * [Navigation menu](<#navigation-menu>)
-         * [Blocks](<#blocks>)
+    * [**All pages**](<#all-pages>)
+         * [Header](<#header>)
          * [Footer](<#footer>)
+    * [**Home page**](<#home-page>)
+         * [Blocks](<#blocks>)
     * [**Camera page**](<#camera-page>)
         * Hardware image
         * Examples of photos for this equipment
@@ -65,30 +66,15 @@ Page footer responsiveness:
 
 ## Existing Features
 
-* ### Home page
+* ### All pages
 
-  * #### Navigation Menu
+  * #### Header
 
-    * Sited at the top of all the pages in the site, it is fully responsive and contains links to all the pages of the site to enable ease of navigation in one convenient location.
     * The logo icon is clickable with a link back to the home page for enhanced UX.
     * The logo text isn't clickable to make it easier to copy the site name and share it.
+    * Sited at the top of all the pages in the site, navigation menu is fully responsive and contains links to all the pages of the site to enable ease of navigation in one convenient location.
 
 ![Navigation bar image](assets/images/readme-images/navbar.png)
-
-[Back to top](<#contents>)
-
-* ### Home page
-
-  * #### Blocks
-
-      * Located on the home page beneath the title section. The main content blocks are designed to be hidden when a service is suspended, or easily added when services are added. Each block ends with a button to encourage the visitor to go to the page for filling out a form or choosing a camera.
-      * Each block is responsive and restructures when the display is scaled down. Keeping the general idea of encouraging the visitor to explore the site further.
-
-![Blocks image](assets/images/readme-images/blocks.png)
-
-[Back to top](<#contents>)
-
-* ### Home page
 
   * #### Footer
 
@@ -100,6 +86,17 @@ Page footer responsiveness:
     * Contains copyright notice.
 
 ![Footer image](assets/images/readme-images/footer.png)
+
+[Back to top](<#contents>)
+
+* ### Home page
+
+  * #### Blocks
+
+      * Located on the home page beneath the title section. The main content blocks are designed to be hidden when a service is suspended, or easily added when services are added. Each block ends with a button to encourage the visitor to go to the page for filling out a form or choosing a camera.
+      * Each block is responsive and restructures when the display is scaled down. Keeping the general idea of encouraging the visitor to explore the site further.
+
+![Blocks image](assets/images/readme-images/blocks.png)
 
 [Back to top](<#contents>)
 
