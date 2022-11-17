@@ -104,7 +104,7 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
 
     * Planned solution:
 
-        Prescribing specific settings for certain browsers.
+        Prescribing specific CSS settings for certain browsers.
 
         With prefix:
 
