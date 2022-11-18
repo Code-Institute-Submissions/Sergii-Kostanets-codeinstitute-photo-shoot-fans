@@ -131,8 +131,6 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
 
         ![Firefox bug 2](assets/images/readme-images/bug-body-firefox-2.png)
 
-[Back to top](<#contents>)
-
     * The bug appears when scrolling with the trackpad on MacOS in the Safari browser:
 
         Header
@@ -142,8 +140,6 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
         Footer
 
         ![Safari bug 2](assets/images/readme-images/bug-body-safari-2.png)
-
-[Back to top](<#contents>)
 
     * Expected behavior:
 
@@ -156,8 +152,6 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
         ![Chrome 2](assets/images/readme-images/bug-body-chrome-1.png)
 
         Also alternative expected behavior: no scroll beyond the page.
-
-[Back to top](<#contents>)
 
     * Planned solution:
 
