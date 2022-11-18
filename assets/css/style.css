@@ -40,7 +40,8 @@ header > div {
 
 #logo-icon {
     font-size: 48px;
-    margin-left: 3%;}
+    margin-left: 3%;
+}
 
 #logo {
     font-size: 32px;
@@ -327,7 +328,6 @@ iframe {
     .footer-contacts {
         flex-direction: row;
     }
-
 
     .footer-social {
         flex-direction: row;
