@@ -281,7 +281,7 @@ iframe {
     font-size: smaller;
 }
 
-/* Responsible design */
+/* Responsive design */
 
 @media screen and (max-width: 900px) {
 
@@ -409,16 +409,12 @@ iframe {
     }
 
     #logo-icon {
-        /* font-size: 48px; */
         margin-left: auto;
     }
 
     #logo {
-        /* font-size: 32px; */
         margin-left: 5%;
         margin-right: auto;
-
-        /* text-transform: uppercase; */
         letter-spacing: 2px;
     }
 
@@ -491,7 +487,7 @@ iframe {
     }
 }
 
-/* Form page */
+/* Request page form */
 
 .form {
     height: 760px;
