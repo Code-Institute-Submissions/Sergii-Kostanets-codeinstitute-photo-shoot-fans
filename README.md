@@ -9,7 +9,6 @@ Welcome to [Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-p
 # Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
-    * [Responsivenes](<#responsivenes>)
     * [Site Structure](<#site-structure>)
 * [**Features**](<#features>)
     * [**Existing Features**](<#existing-features>)
@@ -20,6 +19,7 @@ Welcome to [Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-p
             * [Blocks](<#blocks>)
         * [**Camera page**](<#camera-page>)
         * [**Request page**](<#request-page>)
+        * [**Submit page**](<#submit-page>)
     * [**Future Features**](<#future-features>)
 * [**Technologies Used**](<#technologies-used>)
 * [**Testing**](<#testing>)
@@ -32,27 +32,16 @@ Welcome to [Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-p
 
 # User Experience (UX)
 
-## Responsivenes
-
-Website [Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-photo-shoot-fans) has fully responsive design which looks amazing on any device, from widescreen monitors to the smallest mobile phone screens.
-
-The responsiveness of the main page is shown above. Below you can see the responsiveness of the camera selection page:
-
-![Photo Shoot Fans camera page responsive design](assets/images/readme-images/responsive-camera-page.png)
-
-The responsiveness of the request page:
-
-![Photo Shoot Fans camera page responsive design](assets/images/readme-images/responsive-request-page.png)
-
-Page footer responsiveness:
-
-![Photo Shoot Fans footer responsive design](assets/images/readme-images/responsive-footer.png)
-
-[Back to top](<#contents>)
-
 ## Site Structure
 
-[Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-photo-shoot-fans) website has three pages. The [home page](index.html) is the default loading page, [camera](camera.html) and [request](request.html) pages are all accessible primarily from the navigation menu. There are another links to the request page and camera page in the home page and camera page to inspire the user for the next step.
+[Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-photo-shoot-fans) website has four pages:
+
+ * [Home](index.html)
+ * [Camera](camera.html)
+ * [Request](request.html)
+ * [Submit](submit.html)
+
+The [home](index.html) page is the default loading page, [camera](camera.html) and [request](request.html) pages are all accessible primarily from the navigation menu. The [submit](submit.html) page appears only after form at [request](request.html) page is submit. There are another links to the [request](request.html) page and [camera](camera.html) page in the [home](index.html) page and [camera](camera.html) page to inspire the user for the next step.
 
 [Back to top](<#contents>)
 
@@ -105,7 +94,7 @@ Page footer responsiveness:
     * Blocks are easily duplicated, allowing you to quickly add new cameras to the range.
     * Each block ends with a button to go to the form fill page to inspire the user to continue the journey.
 
-![Projects page image](assets/images/readme-images/camera.png)
+![Camera page image](assets/images/readme-images/camera.png)
 
 [Back to top](<#contents>)
 
@@ -114,7 +103,16 @@ Page footer responsiveness:
     * This section should complete the online journey for the user. It has request form for every type of client.
     * Form has 5 input fields: first name, last name, email, message and type of client.
 
-![Contact Us page image](assets/images/readme-images/request.png)
+![Request page image](assets/images/readme-images/request.png)
+
+[Back to top](<#contents>)
+
+* ### Submit page
+
+    * The page confirms the submission of data.
+    * The page has a general site structure and allows the user to quickly return to viewing previous pages.
+
+![Submit page image](assets/images/readme-images/submit.png)
 
 [Back to top](<#contents>)
 
