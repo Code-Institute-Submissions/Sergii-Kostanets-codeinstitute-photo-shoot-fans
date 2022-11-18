@@ -51,14 +51,14 @@ The CSS validator results are below:
 
     Note: On wide display types the section with main content of the site are restricted in width to 1500px. This helps the UX by not spreading the content too wide on the extra wide screens.
 
-    [Back to top](<#contents>)
+[Back to top](<#contents>)
 
 * Website [Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-photo-shoot-fans) has fully responsive design which looks amazing on any device, from widescreen monitors to the smallest mobile phone screens.
 
     The responsiveness of the home page:
 
     ![Photo Shoot Fans camera page responsive design](assets/images/readme-images/responsive-main-page.png)
-    
+
     The responsiveness of the camera page:
 
     ![Photo Shoot Fans camera page responsive design](assets/images/readme-images/responsive-camera-page.png)
@@ -75,7 +75,7 @@ The CSS validator results are below:
 
     ![Photo Shoot Fans footer responsive design](assets/images/readme-images/responsive-footer.png)
 
-    [Back to top](<#contents>)
+[Back to top](<#contents>)
 
 ## Browser Compatibility
 
@@ -103,7 +103,7 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
 
         Before setting a custom color, it is better to remove the standard browser behavior.
 
-        [Back to top](<#contents>)
+[Back to top](<#contents>)
 
     * Request page - failed to change the border color of the input when focusing on it.
 
@@ -117,7 +117,7 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
 
         Adding padding fixed the issue.
 
-        [Back to top](<#contents>)
+[Back to top](<#contents>)
 
 * ### Unresolved
 
@@ -131,7 +131,7 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
 
         ![Firefox bug 2](assets/images/readme-images/bug-body-firefox-2.png)
 
-        [Back to top](<#contents>)
+[Back to top](<#contents>)
 
     * The bug appears when scrolling with the trackpad on MacOS in the Safari browser:
 
@@ -143,7 +143,7 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
 
         ![Safari bug 2](assets/images/readme-images/bug-body-safari-2.png)
 
-        [Back to top](<#contents>)
+[Back to top](<#contents>)
 
     * Expected behavior:
 
@@ -157,7 +157,7 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
 
         Also alternative expected behavior: no scroll beyond the page.
 
-        [Back to top](<#contents>)
+[Back to top](<#contents>)
 
     * Planned solution:
 
@@ -204,7 +204,7 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
                 }
             }
 
-            [Back to top](<#contents>)
+[Back to top](<#contents>)
 
 ## Additional Testing
 
