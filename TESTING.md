@@ -103,8 +103,6 @@ Google Chrome, Opera, Microsoft Edge, Safari and Mozilla Firefox. Appearance, fu
 
         Before setting a custom color, it is better to remove the standard browser behavior.
 
-[Back to top](<#contents>)
-
     * Request page - failed to change the border color of the input when focusing on it.
 
         Approach 1 (failed):
